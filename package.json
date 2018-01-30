@@ -1,0 +1,21 @@
+{
+  "name": "schutz",
+  "version": "0.4.1",
+  "description": "todo command line interface for developers. keep track of your todo items for your project. ",
+  "main": "todo.js",
+  "bin": {
+    "todo": "bin/todo-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "ramda"
+  ],
+  "author": "Jennifer",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
